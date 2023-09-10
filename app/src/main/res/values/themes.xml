@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GoBears" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/Burgundy</item>
+        <item name="colorPrimaryDark">@color/Black</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="Theme.GoBears" parent="Base.Theme.GoBears" />
+</resources>
